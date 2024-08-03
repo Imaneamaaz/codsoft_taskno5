@@ -21,3 +21,8 @@ This project implements a face recognition system using MTCNN for face detection
 - `numpy`
 - `matplotlib`
 - `tensorflow`
+
+You can install the necessary packages using:
+```bash
+!pip install mtcnn keras_facenet hyperopt tensorflow opencv-python scikit-learn numpy matplotlib
+
